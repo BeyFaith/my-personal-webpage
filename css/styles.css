@@ -120,7 +120,15 @@ text-transform:uppercase;
   width:40%;
   color:silver;
 }
-
+#pet{
+  color:silver;
+}
+#coding{
+  color:silver;
+  margin-top:50px;
+  text-align:center;
+  padding-bottom:30px;
+}
 
 
 
