@@ -66,6 +66,9 @@ h1{
 }
 #about{
   background-color: #cc5500;
+  padding:20px 30px;
+  
+  
 
 }
 #about>h2{
@@ -75,4 +78,9 @@ h1{
 }
 #about>p{
   text-align:center;
+  color:silver;
 }
+#skills{
+  background-color:palegoldenrod;
+}
+#skills>
