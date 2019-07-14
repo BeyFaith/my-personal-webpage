@@ -88,14 +88,6 @@ h1{
   padding-top:25px;
   color:#cc5500;
 }
-#skills>ul>li{
-  text-align:center;
-  display:block;
-  color:rgb(218, 18, 18);
-  text-transform:uppercase;
-  font-style:italic;
-
-}
 
 #management{
   float:right;
@@ -113,6 +105,20 @@ margin-top:50px;
 color:saddlebrown;
 padding-bottom:30px;
 
+}
+#projects{
+background-color:#cc5500;
+}
+#projects>h2{
+text-align:center;
+padding-top:25px;
+color:whitesmoke;
+text-transform:uppercase;
+}
+#rmc{
+  float:right;
+  width:40%;
+  color:silver;
 }
 
 
