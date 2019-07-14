@@ -28,3 +28,21 @@ nav>ul>li>a:hover{
   padding:20px 30px
 
 }
+.intro{
+  background-image:url(images/bey.JPG);
+  banckground-repeat:no-repeat;
+  background-size:cover;
+}
+#welcome{
+  position:relative;
+  overflow:auto;
+  width: 100%;
+  height:100%;
+  background-color:rgba(0,0,0,0.5);
+  z-index:2;
+
+}
+h1{
+  color:white;
+  text-trans
+}
