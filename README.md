@@ -15,7 +15,7 @@ When you land on my portfolio, you will see a navigation bar which contains diff
 On my portfolio, I only used HTML and CSS as the languages to make up my website. The tools I used, I used git to track my changes and used GitHub to establish my code online.
 ## Support and contact details
 Thank you so much for taking your time to read my README , please feel free to contribute to my work as it has an open license(check below). For any questions or concerns you can email me at fryumugabe@gmail.com.
-You can check it out here: https://beyfaith.github.io/my-personal-webpage/.
+You can check it out here:https://beyfaith.github.io/my-personal-webpage/.
 ### License
 *GPL*
 Copyright (c) 2019 **Bey Faith.
