@@ -39,29 +39,30 @@ nav>ul>li>a:hover{
   overflow:auto;
   width: 100%;
   height:100%;
-  background-color:rgba(0,0,0,0.5);
+  background-color:rgba(255,255,255,0,1);
   z-index:2;
 
 }
 h1{
-  color:whitesmoke;
+  color:maroon;
   font-family:'arial','serif';
-  font-size:4em;
+  font-size:2em;
   text-align:center;
 
 }
 #welcome>h3{
   text-align:center;
-  font-size:3em;
-  color:whitesmoke;
+  font-size:2em;
+  color:peachpuff;
 }
 #welcome>p{
   text-align:center;
   font-size:2em;
-  color:silver;
+  color:saddlebrown;
+  padding-bottom:5px;
 }
 #bey{
   text-align:center;
-  margin-top:50px;
+  margin-top:20px;
   
 }
