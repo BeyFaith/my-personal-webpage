@@ -83,4 +83,31 @@ h1{
 #skills{
   background-color:palegoldenrod;
 }
-#skills>
+#skills>h2{
+  text-align:center;
+  padding-top:25px;
+  color:#cc5500;
+}
+#skills>ul>li{
+  text-align:center;
+  display:block;
+  color:rgb(218, 18, 18);
+  text-transform:uppercase;
+  font-style:italic;
+
+}
+
+#management{
+  float:right;
+  width:40%;
+color:saddlebrown;
+}
+
+#training{
+color:saddlebrown;
+}
+
+#software{
+color:saddlebrown;
+}
+
