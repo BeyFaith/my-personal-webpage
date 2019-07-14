@@ -65,7 +65,7 @@ h1{
   text-align:center;  
 }
 #about{
-  background-color: #cc5500;
+  background-color:#8a2e47 ;
   padding:20px 30px;
   
   
@@ -81,7 +81,7 @@ h1{
   color:silver;
 }
 #skills{
-  background-color:palegoldenrod;
+  background-color:#ffcccc;
 }
 #skills>h2{
   text-align:center;
@@ -107,7 +107,7 @@ padding-bottom:30px;
 
 }
 #projects{
-background-color:#cc5500;
+background-color:#8a2e47;
 }
 #projects>h2{
 text-align:center;
@@ -128,6 +128,20 @@ text-transform:uppercase;
   margin-top:50px;
   text-align:center;
   padding-bottom:30px;
+}
+
+#contact{
+  background-color:#ffcccc;
+}
+#contact>h2{
+  text-align:center;
+  padding-top:25px;
+  color:#cc5500;
+}
+#contact>p{
+  text-align:center;
+  color:saddlebrown;
+  padding:10px 20px;
 }
 
 
