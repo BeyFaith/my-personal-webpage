@@ -44,5 +44,8 @@ nav>ul>li>a:hover{
 }
 h1{
   color:white;
-  text-trans
+  font-family:'arial','serif';
+  font-size:4em;
+  text-align:center;
+
 }
