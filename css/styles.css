@@ -53,7 +53,7 @@ h1{
 #welcome>h3{
   text-align:center;
   font-size:2em;
-  color:peachpuff;
+  color:peru;
 }
 #welcome>p{
   text-align:center;
@@ -62,7 +62,17 @@ h1{
   padding-bottom:5px;
 }
 #bey{
+  text-align:center;  
+}
+#about{
+  background-color: #cc5500;
+
+}
+#about>h2{
   text-align:center;
-  margin-top:20px;
-  
+  padding-top:25px;
+  color:whitesmoke;
+}
+#about>p{
+  text-align:center;
 }
